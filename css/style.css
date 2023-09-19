@@ -111,10 +111,11 @@ body {
 		justify-content: center;
 		height: 50vh;
 		overflow: hidden;
+		width: 100%;
 	}
 	.footer__texto__container {
 		height: 25vh;
-		margin-top: 8vh;
+		margin-top: 7vh;
 		background-color: rgb(5, 13, 34);
 		color: aliceblue;
 		font-family: Poppins;
