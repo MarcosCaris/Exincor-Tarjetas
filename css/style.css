@@ -168,6 +168,9 @@
 	.advertencia {
 		display: none;
 	}
+	.Tecnología {
+		color: #33b1ff;
+	}
 }
 @media (min-width: 300px) and (max-width: 400px) {
 	body {
@@ -264,6 +267,9 @@
 		text-align: center;
 		font-weight: 300;
 		font-size: 2.3vh;
+	}
+	.Tecnología {
+		color: #33b1ff;
 	}
 	.index__descripcion h3 {
 		font-size: 4vh;
