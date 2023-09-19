@@ -101,10 +101,11 @@
 		font-size: 2.6vh;
 		padding-left: 1vh;
 		padding-right: 1vh;
+		margin-bottom: 1vh;
 	}
 	.index__descripcion h3 {
 		font-size: xx-large;
-		padding: 0 9vh 0 9vh;
+		padding: 0 7vh 0 7vh;
 		text-align: center;
 	}
 	.caja__exincor {
@@ -267,13 +268,16 @@
 		text-align: center;
 		font-weight: 300;
 		font-size: 2.3vh;
+		margin-bottom: 1vh;
+		padding-left: 1vh;
+		padding-right: 1vh;
 	}
 	.Tecnología {
 		color: #33b1ff;
 	}
 	.index__descripcion h3 {
 		font-size: 4vh;
-		padding: 0 9vh 0 9vh;
+		padding: 0 3vh 0 3vh;
 		text-align: center;
 	}
 	.caja__exincor {
