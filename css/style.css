@@ -43,7 +43,7 @@
 		position: relative;
 		top: 18vh;
 		margin-left: 2vh;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		font-weight: bolder;
 		color: aliceblue;
 		z-index: 10000;
@@ -65,7 +65,7 @@
 	.index__subtitulo {
 		font-size: 3vh;
 		margin-left: 2.2vh;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		font-weight: 400;
 		color: aliceblue;
 	}
@@ -93,12 +93,12 @@
 		justify-content: space-around;
 		align-items: center;
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 	}
 	.index__descripcion h2 {
 		text-align: center;
 		font-weight: 300;
-		font-size: 2.6vh;
+		font-size: 2.9vh;
 		padding-left: 1vh;
 		padding-right: 1vh;
 		margin-bottom: 1vh;
@@ -121,7 +121,7 @@
 		margin-top: 7vh;
 		background-color: rgb(5, 13, 34);
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		display: flex;
 		flex-flow: column nowrap;
 		justify-content: space-around;
@@ -147,14 +147,15 @@
 	.sobre__nosotros {
 		height: 5vh;
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		margin-bottom: 2vh;
 		margin-left: 3vh;
+		margin-top: 2vh;
 	}
 	.index__descripcion__SN {
 		height: 63vh;
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-around;
@@ -164,7 +165,7 @@
 	.index__descripcion__SN p {
 		padding-right: 2vh;
 		text-align: start;
-		font-size: 2.4vh;
+		font-size: 2.8vh;
 	}
 	.advertencia {
 		display: none;
@@ -212,7 +213,7 @@
 		top: 18vh;
 		font-size: 3.6vh;
 		margin-left: 2vh;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		font-weight: bolder;
 		color: aliceblue;
 		z-index: 10000;
@@ -234,7 +235,7 @@
 	.index__subtitulo {
 		font-size: 2.3vh;
 		margin-left: 2.2vh;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		font-weight: 400;
 		color: aliceblue;
 	}
@@ -252,7 +253,7 @@
 		background: rgba(255, 255, 255, 0.541);
 		width: 85%;
 		margin: auto;
-		margin-top: 6vh;
+		margin-top: 8vh;
 	}
 	.index__descripcion {
 		margin-top: 4vh;
@@ -262,12 +263,12 @@
 		justify-content: space-around;
 		align-items: center;
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 	}
 	.index__descripcion h2 {
 		text-align: center;
 		font-weight: 300;
-		font-size: 2.3vh;
+		font-size: 2.6vh;
 		margin-bottom: 1vh;
 		padding-left: 1vh;
 		padding-right: 1vh;
@@ -293,7 +294,7 @@
 		margin-top: 7vh;
 		background-color: rgb(5, 13, 34);
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		display: flex;
 		flex-flow: column nowrap;
 		justify-content: space-around;
@@ -319,14 +320,14 @@
 	.sobre__nosotros {
 		height: 5vh;
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		margin-bottom: 2vh;
 		margin-left: 3vh;
 	}
 	.index__descripcion__SN {
 		height: 60vh;
 		color: aliceblue;
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-around;
@@ -334,7 +335,8 @@
 		margin-left: 3vh;
 	}
 	.index__descripcion__SN p {
-		padding-right: 2vh;
+		padding-right: 2.3vh;
+		font-size: 2.6vh;
 		text-align: start;
 	}
 	.advertencia {
@@ -355,7 +357,7 @@
 		flex-direction: column;
 	}
 	.limite {
-		font-family: Poppins;
+		font-family: 'Satoshi', sans-serif;
 		color: aliceblue;
 		font-size: 6vh;
 		text-align: center;
