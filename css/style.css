@@ -86,7 +86,7 @@
 		margin-top: 6vh;
 	}
 	.index__descripcion {
-		margin-top: 4vh;
+		margin-top: 15vh;
 		height: 27vh;
 		display: flex;
 		flex-flow: column nowrap;
@@ -165,13 +165,31 @@
 	.index__descripcion__SN p {
 		padding-right: 2vh;
 		text-align: start;
-		font-size: 2.8vh;
+		font-size: 2.3vh;
 	}
 	.advertencia {
 		display: none;
 	}
 	.Tecnología {
 		color: #33b1ff;
+	}
+	.to__share {
+		position: fixed;
+		height: 10vh;
+		width: 10vh;
+		background-color: #874091;
+		right: 2.5vh;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 3vh;
+		opacity: 100%;
+	}
+	.share__icon {
+		width: 7vh;
+		margin-right: 1vh;
+		margin-top: 1vh;
 	}
 }
 @media (min-width: 300px) and (max-width: 400px) {
@@ -256,7 +274,7 @@
 		margin-top: 8vh;
 	}
 	.index__descripcion {
-		margin-top: 4vh;
+		margin-top: 15vh;
 		height: 27vh;
 		display: flex;
 		flex-flow: column nowrap;
@@ -336,11 +354,28 @@
 	}
 	.index__descripcion__SN p {
 		padding-right: 2.3vh;
-		font-size: 2.6vh;
+		font-size: 2.3vh;
 		text-align: start;
 	}
 	.advertencia {
 		display: none;
+	}
+	.to__share {
+		position: fixed;
+		height: 12vh;
+		width: 12vh;
+		background-color: #874091;
+		right: 2.5vh;
+		border-radius: 50%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 3vh;
+	}
+	.share__icon {
+		width: 7vh;
+		margin-right: 1vh;
+		margin-top: 1vh;
 	}
 }
 @media (min-width: 500px) {
